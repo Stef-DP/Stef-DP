@@ -1,6 +1,6 @@
 ## Hi, I'm Stef_DP
-📫️ My Mail: <a href="mailto:admin@stefdp.lol">admin@stefdp.lol</a><br />
-🌐 My Website: <a href="https://stefdp.lol">https://stefdp.lol</a><br />
+📫️ My Mail: <a href="mailto:admin@stefdp.com">admin@stefdp.com</a><br />
+🌐 My Website: <a href="https://stefdp.com">https://stefdp.com</a><br />
 (In March I'll switch the domain to `stefdp.com`)
 
 Well... Idk what else to put...<br />
