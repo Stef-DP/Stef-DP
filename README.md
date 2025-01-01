@@ -3,6 +3,8 @@
 🌐 My Website: <a href="https://stefdp.com">https://stefdp.com</a><br />
 (In March I'll switch the domain to `stefdp.com`)
 
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,bun,nodejs,npm,nextjs,git,docker,linux,nginx,vscode)
+
 Well... Idk what else to put...<br />
 👨🏼‍💻 Anyway I'm a [Is-a.dev](https://github.com/is-a-dev/register) maintainer :D
 
