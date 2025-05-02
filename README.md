@@ -17,7 +17,7 @@ Aaaand, some data about me on Discord
 
 Oh, also some data about me on GitHub
 <div style="justify-content: center; flex-wrap: wrap; margin: 10px; display: flex;">
-    <img src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=Stef-00012&theme=radical">
-    <img src="https://github-stats-stef-00012.vercel.app/api?username=Stef-00012&show_icons=true&theme=tokyonight">
-    <img src="https://github-stats-stef-00012.vercel.app/api/top-langs/?username=Stef-00012&theme=tokyonight">
+    <img src="https://github-readme-streak-stats-one-blue.vercel.app/?user=Stef-00012&theme=catppuccin-mocha&card_height=275">
+    <img src="https://github-readme-stats-silk-eight.vercel.app/api/top-langs/?username=Stef-00012&theme=catppuccin_mocha&layout=compact&langs_count=6&exclude_repo=github-readme-stats,github-readme-streak-stats,spotify-lyrics-api,yolks">
+    <img src="https://github-readme-stats-silk-eight.vercel.app/api?username=Stef-00012&show_icons=true&theme=catppuccin_mocha&line_height=36">
 </div>
