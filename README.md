@@ -1,5 +1,5 @@
 ## Hi, I'm Stef_DP
-📫️ My Mail: <a href="mailto:admin@stefdp.com">admin@stefdp.com</a><br />
+📫️ My Mail: <a href="mailto:me@stefdp.com">me@stefdp.com</a><br />
 🌐 My Website: <a href="https://stefdp.com">https://stefdp.com</a><br />
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,bun,nodejs,npm,nextjs,git,docker,linux,nginx,vscode)
