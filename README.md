@@ -2,10 +2,20 @@
 📫️ My Mail: <a href="mailto:me@stefdp.com">me@stefdp.com</a><br />
 🌐 My Website: <a href="https://stefdp.com">https://stefdp.com</a><br />
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,bun,nodejs,npm,nextjs,git,docker,linux,nginx,vscode)
+#### Languages
+
+![My Languages](https://skillicons.dev/icons?i=kotlin,ts,js,html,css)
+
+#### Tools
+
+![Tools I Use](https://skillicons.dev/icons?i=androidstudio,bun,nodejs,npm,nextjs,git,docker,nginx,vscode)
+
+#### My OS
+
+![My OS](https://skillicons.dev/icons?i=linux,arch)
 
 Well... Idk what else to put...<br />
-👨🏼‍💻 Anyway I'm a [Is-a.dev](https://github.com/is-a-dev/register) maintainer :D
+👨🏼‍💻 Anyway I'm a [Is-a.dev](https://is-a.dev) maintainer :D
 
 Aaaand, some data about me on Discord
 <div style="justify-content: center; flex-wrap: wrap; margin: 10px; display: flex;">
